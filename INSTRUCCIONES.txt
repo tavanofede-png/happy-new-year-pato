@@ -1,0 +1,22 @@
+🎆 INSTRUCCIONES PARA COMPARTIR TU PÁGINA DE AÑO NUEVO 🎆
+
+✅ ¡YA ABRÍ NETLIFY DROP EN TU NAVEGADOR!
+
+📋 PASOS SENCILLOS:
+
+1️⃣ En la página de Netlify Drop que se abrió:
+   - Arrastra tu archivo "index.html" 
+   - O haz clic en "click to upload"
+
+2️⃣ Espera unos segundos mientras sube
+
+3️⃣ ¡LISTO! Te dará un enlace como:
+   https://amazing-name-123456.netlify.app
+
+4️⃣ Copia ese enlace y compártelo con tus amigos
+
+🎆 ¡Tus amigos verán tu página de Año Nuevo directamente!
+
+📁 Tu archivo está en: C:\Users\tavan\happy-new-year-pato\index.html
+
+🎊 ¡Feliz Año Nuevo de parte de Francisco!
