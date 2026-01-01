@@ -81,17 +81,14 @@
             line-height: 1.6;
             animation: fadeIn 2s ease-out 1s both;
             text-align: center;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 0.5rem;
         }
 
         .emoji {
             font-size: 1.8rem;
             animation: rotate 2s linear infinite;
-            display: inline-block;
-            flex-shrink: 0;
+            display: inline;
+            vertical-align: middle;
+            margin: 0 0.3rem;
         }
 
         .celebrate-btn {
@@ -422,9 +419,7 @@
         <div class="year">2026</div>
         <div class="from">Con cariño, Francisco</div>
         <div class="message">
-            <span class="emoji">🎉</span>
-            <span>¡Mis queridos amigos! Feliz Año Nuevo 2026</span>
-            <span class="emoji">🎊</span>
+            🎉 ¡Mis queridos amigos! Feliz Año Nuevo 2026 🎊
         </div>
         <button class="celebrate-btn" onclick="celebrate()">🎆 Celebrar 🎆</button>
     </div>
